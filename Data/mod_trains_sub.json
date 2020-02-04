@@ -1,0 +1,704 @@
+{
+  "nodes": [
+     {
+        "type": "train",
+        "id": "9S97"
+    },
+    {
+        "type": "train",
+        "id": "7V98"
+    },
+    {
+        "type": "train",
+        "id": "7V81"
+    },
+    {
+        "type": "train",
+        "id": "6Z96"
+    },
+    {
+        "type": "train",
+        "id": "6V91"
+    },
+    {
+        "type": "train",
+        "id": "5U10"
+    },
+    {
+        "type": "train",
+        "id": "4M52"
+    },
+    {
+        "type": "train",
+        "id": "4L93"
+    },
+    {
+        "type": "train",
+        "id": "3P21"
+    },
+    {
+        "type": "train",
+        "id": "3G02"
+    },
+    {
+        "type": "train",
+        "id": "1A07"
+    },
+    {
+        "type": "train",
+        "id": "1D17"
+    },
+    {
+        "type": "train",
+        "id": "1M62"
+    },
+    {
+        "type": "train",
+        "id": "2W52"
+    },
+    {
+        "type": "train",
+        "id": "1Y61"
+    },
+    {
+        "type": "train",
+        "id": "1S98"
+    },
+    {
+        "type": "train",
+        "id": "7A09"
+    },
+    {
+        "type": "train",
+        "id": "7O53"
+    },
+    {
+        "type": "train",
+        "id": "1S49"
+    },
+    {
+        "type": "train",
+        "id": "6M91"
+    },
+    {
+        "type": "train",
+        "id": "2K20"
+    },
+    {
+        "type": "train",
+        "id": "2N06"
+    },
+    {
+        "type": "train",
+        "id": "7O93"
+    },
+    {
+        "type": "train",
+        "id": "2U10"
+    },
+    {
+        "type": "train",
+        "id": "1S41"
+    },
+    {
+        "type": "train",
+        "id": "1V44"
+    },
+    {
+        "type": "train",
+        "id": "2D06"
+    },
+    {
+        "type": "train",
+        "id": "2Y10"
+    },
+    {
+        "type": "train",
+        "id": "4L31"
+    },
+    {
+        "type": "train",
+        "id": "1E48"
+    },
+    {
+        "type": "train",
+        "id": "2J34"
+    },
+    {
+        "type": "train",
+        "id": "2N36"
+    },
+    {
+        "type": "train",
+        "id": "2P56"
+    },
+    {
+        "type": "train",
+        "id": "1D43"
+    },
+    {
+        "type": "train",
+        "id": "1E56"
+    },
+    {
+        "type": "train",
+        "id": "1G52"
+    },
+    {
+        "type": "train",
+        "id": "1W33"
+    },
+    {
+        "type": "train",
+        "id": "2K59"
+    },
+    {
+        "type": "train",
+        "id": "2P64"
+    },
+    {
+        "type": "train",
+        "id": "6B33"
+    },
+    {
+        "type": "train",
+        "id": "1S39"
+    },
+    {
+        "type": "train",
+        "id": "4G57"
+    },
+    {
+        "type": "train",
+        "id": "6M07"
+    },
+    {
+        "type": "train",
+        "id": "1G02"
+    },
+    {
+        "type": "train",
+        "id": "6A15"
+    },
+    {
+        "type": "train",
+        "id": "1Y37"
+    },
+    {
+        "type": "train",
+        "id": "1S37"
+    },
+    {
+        "type": "train",
+        "id": "1P24"
+    },
+    {
+        "type": "train",
+        "id": "1G21"
+    },
+    {
+        "type": "train",
+        "id": "2M04"
+    },
+    {
+        "type": "train",
+        "id": "1O04"
+    },
+    {
+        "type": "train",
+        "id": "1C07"
+    },
+    {
+        "type": "train",
+        "id": "1F03"
+    },
+    {
+        "type": "train",
+        "id": "1A75"
+    },
+    {
+        "type": "train",
+        "id": "1M99"
+    },
+    {
+        "type": "train",
+        "id": "2C43"
+    },
+    {
+        "type": "train",
+        "id": "1A85"
+    },
+    {
+        "type": "train",
+        "id": "1P61"
+    },
+    {
+        "type": "train",
+        "id": "2K73"
+    },
+    {
+        "type": "train",
+        "id": "1K74"
+    },
+    {
+        "type": "train",
+        "id": "1E60"
+    },
+    {
+        "type": "train",
+        "id": "2P65"
+    },
+    {
+        "type": "train",
+        "id": "2P66"
+    },
+    {
+        "type": "train",
+        "id": "2R49"
+    },
+    {
+        "type": "train",
+        "id": "2Y58"
+    },
+    {
+        "type": "train",
+        "id": "1D49"
+    },
+    {
+        "type": "train",
+        "id": "6A57"
+    },
+    {
+        "type": "train",
+        "id": "6O32"
+    },
+    {
+        "type": "train",
+        "id": "1B55"
+    },
+    {
+        "type": "train",
+        "id": "1C87"
+    },
+    {
+        "type": "train",
+        "id": "2J03"
+    },
+    {
+        "type": "train",
+        "id": "2M10"
+    },
+    {
+        "type": "train",
+        "id": "2L52"
+    },
+    {
+        "type": "train",
+        "id": "6X44"
+    },
+    {
+        "type": "train",
+        "id": "7A47"
+    },
+    {
+        "type": "train",
+        "id": "7C64"
+    },
+    {
+        "type": "train",
+        "id": "6L21"
+    }
+],
+  "links": [
+        {
+        "source": "9S97",
+        "label": "Galton Jn to Wolverhampton",
+        "caption" : "Shared tracks",
+        "target": "1D17"
+    },
+    {
+        "source": "1M62",
+        "label": "Stechford to Birmingham New Street",
+        "caption" : "Shared tracks",
+        "target": "9S97"
+    },
+    {
+        "source": "2W52",
+        "label": "Galton Jn to Wolverhampton",
+        "caption" : "Shared tracks",
+        "target": "9S97"
+    },
+    {
+        "source": "1Y61",
+        "label": "Birmingham International to Stechford",
+        "caption" : "Shared tracks",
+        "target": "9S97"
+    },
+    {
+        "source": "9S97",
+        "label": "Astley to Wigan North Western",
+        "caption" : "Shared tracks",
+        "target": "1S98"
+    },
+    {
+        "source": "7V98",
+        "label": "Merehead Quarry",
+        "caption" : "Shared tracks",
+        "target": "7A09"
+    },
+    {
+        "source": "7O53",
+        "label": "Crawley Foster Yeoman",
+        "caption" : "Shared tracks",
+        "target": "7V81"
+    },
+    {
+        "source": "6Z96",
+        "label": "Wichnor Jn to Clay Mills Jn",
+        "caption" : "Shared tracks",
+        "target": "1S49"
+    },
+    {
+        "source": "6V91",
+        "label": "Theale Lafarge Fhh",
+        "caption" : "Shared tracks",
+        "target": "6M91"
+    },
+    {
+        "source": "6V91",
+        "label": "Southcote Jn to Newbury",
+        "caption" : "Shared tracks",
+        "target": "2K20"
+    },
+    {
+        "source": "2N06",
+        "label": "Heathrow Airport Jn to Slough",
+        "caption" : "Shared tracks",
+        "target": "6V91"
+    },
+    {
+        "source": "6V91",
+        "label": "Southall to Acton West",
+        "caption" : "Shared tracks",
+        "target": "7O93"
+    },
+    {
+        "source": "5U10",
+        "label": "Weston-Super-Mare",
+        "caption" : "Shared tracks",
+        "target": "2U10"
+    },
+    {
+        "source": "5U10",
+        "label": "Worle Jn to Bristol Temple Meads",
+        "caption" : "Shared tracks",
+        "target": "1S41"
+    },
+    {
+        "source": "5U10",
+        "label": "Bristol Temple Meads to Worle Jn",
+        "caption" : "Shared tracks",
+        "target": "1V44"
+    },
+    {
+        "source": "5U10",
+        "label": "Nailsea & Backwell to Bristol Temple Meads",
+        "caption" : "Shared tracks",
+        "target": "2D06"
+    },
+    {
+        "source": "5U10",
+        "label": "Yatton to Worle Jn",
+        "caption" : "Shared tracks",
+        "target": "2Y10"
+    },
+    {
+        "source": "5U10",
+        "label": "Bristlflt to Bristol Temple Meads",
+        "caption" : "Shared tracks",
+        "target": "4L31"
+    },
+    {
+        "source": "4M52",
+        "label": "Reading to Didcot North Jn",
+        "caption" : "Shared tracks",
+        "target": "1E48"
+    },
+    {
+        "source": "2J34",
+        "label": "Bramley (Hants) to Southcote Jn",
+        "caption" : "Shared tracks",
+        "target": "4M52"
+    },
+    {
+        "source": "2N36",
+        "label": "Southcote Jn to Didcot T.C.",
+        "caption" : "Shared tracks",
+        "target": "4M52"
+    },
+    {
+        "source": "4M52",
+        "label": "Didcot Parkway",
+        "caption" : "Shared tracks",
+        "target": "2P56"
+    },
+    {
+        "source": "1D43",
+        "label": "Didcot North Jn to Oxford",
+        "caption" : "Shared tracks",
+        "target": "4M52"
+    },
+    {
+        "source": "4M52",
+        "label": "Aynho Jn to Banbury",
+        "caption" : "Shared tracks",
+        "target": "1E56"
+    },
+    {
+        "source": "4M52",
+        "label": "Kingsbury Jn to Landor Street Jn",
+        "caption" : "Shared tracks",
+        "target": "1G52"
+    },
+    {
+        "source": "4M52",
+        "label": "Reading to Didcot North Jn",
+        "caption" : "Shared tracks",
+        "target": "1W33"
+    },
+    {
+        "source": "4M52",
+        "label": "Newbury to Southcote Jn",
+        "caption" : "Shared tracks",
+        "target": "2K59"
+    },
+    {
+        "source": "4M52",
+        "label": "Oxford to Didcot North Jn",
+        "caption" : "Shared tracks",
+        "target": "2P64"
+    },
+    {
+        "source": "4M52",
+        "label": "Southcote Jn to Didcot Parkway",
+        "caption" : "Shared tracks",
+        "target": "6B33"
+    },
+    {
+        "source": "1S39",
+        "label": "Lawley Street F.L.T. to Whitacre Jn",
+        "caption" : "Shared tracks",
+        "target": "4L93"
+    },
+    {
+        "source": "4L93",
+        "label": "Park Lane Jn to Hams Hall Nat Dist Park",
+        "caption" : "Shared tracks",
+        "target": "4G57"
+    },
+    {
+        "source": "3P21",
+        "label": "Llanwern West Jn to Maindee North Jn",
+        "caption" : "Shared tracks",
+        "target": "6M07"
+    },
+    {
+        "source": "3G02",
+        "label": "Swindon",
+        "caption" : "Shared tracks",
+        "target": "1G02"
+    },
+    {
+        "source": "3G02",
+        "label": "Wootton Bassett Jn to Swindon",
+        "caption" : "Shared tracks",
+        "target": "6A15"
+    },
+    {
+        "source": "1A07",
+        "label": "Acton West to Ladbroke Grove",
+        "caption" : "Shared tracks",
+        "target": "1Y37"
+    },
+    {
+        "source": "1A07",
+        "label": "Worle Jn to Bristol Temple Meads",
+        "caption" : "Shared tracks",
+        "target": "1S37"
+    },
+    {
+        "source": "1P24",
+        "label": "Slough to Heathrow Airport Jn",
+        "caption" : "Shared tracks",
+        "target": "1A07"
+    },
+    {
+        "source": "1A07",
+        "label": "London Paddington",
+        "caption" : "Shared tracks",
+        "target": "1G21"
+    },
+    {
+        "source": "1A07",
+        "label": "Bradford Jn to Thingley East Junction",
+        "caption" : "Shared tracks",
+        "target": "2M04"
+    },
+    {
+        "source": "1O04",
+        "label": "Didcot Parkway",
+        "caption" : "Shared tracks",
+        "target": "1A07"
+    },
+    {
+        "source": "1A07",
+        "label": "Acton West to Southall",
+        "caption" : "Shared tracks",
+        "target": "1C07"
+    },
+    {
+        "source": "1F03",
+        "label": "Bristol Temple Meads to Bath Spa",
+        "caption" : "Shared tracks",
+        "target": "1A07"
+    },
+    {
+        "source": "1A07",
+        "label": "Slough to Heathrow Airport Jn",
+        "caption" : "Shared tracks",
+        "target": "1A75"
+    },
+    {
+        "source": "1A07",
+        "label": "Reading to Didcot Parkway",
+        "caption" : "Shared tracks",
+        "target": "1M99"
+    },
+    {
+        "source": "1A07",
+        "label": "Bristol Temple Meads to Worle Jn",
+        "caption" : "Shared tracks",
+        "target": "2C43"
+    },
+    {
+        "source": "1A85",
+        "label": "Lavington to Woodborough",
+        "caption" : "Shared tracks",
+        "target": "6L21"
+    },
+    {
+        "source": "6L21",
+        "label": "Slough to Heathrow Airport Jn",
+        "caption" : "Shared tracks",
+        "target": "1P61"
+    },
+    {
+        "source": "6L21",
+        "label": "Newbury to Southcote Jn",
+        "caption" : "Shared tracks",
+        "target": "2K73"
+    },
+    {
+        "source": "6L21",
+        "label": "Twyford to Reading",
+        "caption" : "Shared tracks",
+        "target": "1K74"
+    },
+    {
+        "source": "6L21",
+        "label": "Reading",
+        "caption" : "Shared tracks",
+        "target": "1E60"
+    },
+    {
+        "source": "2P65",
+        "label": "Maidenhead to Slough",
+        "caption" : "Shared tracks",
+        "target": "6L21"
+    },
+    {
+        "source": "6L21",
+        "label": "Reading to Twyford",
+        "caption" : "Shared tracks",
+        "target": "2P66"
+    },
+    {
+        "source": "6L21",
+        "label": "Twyford to Reading",
+        "caption" : "Shared tracks",
+        "target": "2R49"
+    },
+    {
+        "source": "6L21",
+        "label": "Southall to Ealing Broadway",
+        "caption" : "Shared tracks",
+        "target": "2Y58"
+    },
+    {
+        "source": "6L21",
+        "label": "Twyford to Reading",
+        "caption" : "Shared tracks",
+        "target": "1D49"
+    },
+    {
+        "source": "6L21",
+        "label": "Whatley Quarry to Clink Road Jn",
+        "caption" : "Shared tracks",
+        "target": "6A57"
+    },
+    {
+        "source": "6L21",
+        "label": "Slough to Heathrow Airport Jn",
+        "caption" : "Shared tracks",
+        "target": "6O32"
+    },
+    {
+        "source": "1B55",
+        "label": "Southcote Jn to Reading",
+        "caption" : "Shared tracks",
+        "target": "6L21"
+    },
+    {
+        "source": "1C87",
+        "label": "Southcote Jn to Reading",
+        "caption" : "Shared tracks",
+        "target": "6L21"
+    },
+    {
+        "source": "2J03",
+        "label": "South Tottenham to Woodgrange Park",
+        "caption" : "Shared tracks",
+        "target": "6L21"
+    },
+    {
+        "source": "2M10",
+        "label": "Westbury",
+        "caption" : "Shared tracks",
+        "target": "6L21"
+    },
+    {
+        "source": "6L21",
+        "label": "Mitre Bridge Jn to Willesden Jn. High Level",
+        "caption" : "Shared tracks",
+        "target": "2L52"
+    },
+    {
+        "source": "6L21",
+        "label": "Twyford to Reading",
+        "caption" : "Shared tracks",
+        "target": "6X44"
+    },
+    {
+        "source": "6L21",
+        "label": "DAWLEY LOOP",
+        "caption" : "Shared tracks",
+        "target": "7A47"
+    },
+    {
+        "source": "6L21",
+        "caption": "Twyford to Reading",
+        "caption" : "Shared tracks",
+        "target": "7C64"
+    }
+ ]
+}

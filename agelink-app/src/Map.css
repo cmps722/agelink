@@ -1,0 +1,14 @@
+.Map {
+  text-align: center;
+}
+
+.Map-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Map-intro {
+  font-size: large;
+}
